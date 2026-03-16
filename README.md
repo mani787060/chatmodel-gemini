@@ -31,4 +31,3 @@ This repository demonstrates how to leverage **Google's Gemini** models through 
 * **SDK:** `google-generativeai`
 * **Utilities:** `python-dotenv`, `PIL` (Python Imaging Library for Vision tasks)
 * **Platform:** Jupyter Notebook / Google Colab
-* 
