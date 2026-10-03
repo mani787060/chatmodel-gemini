@@ -1,6 +1,6 @@
 # Google Gemini Chat Model Integration
 
-## 🚀 Overview
+## Overview
 
 This project demonstrates how to work with **Google Gemini models** in Python for building Generative AI applications. The notebook explores Gemini's capabilities for **text generation, multimodal image understanding, conversational interactions, streaming responses, and configurable model behavior**.
 
@@ -8,7 +8,7 @@ It also covers practical aspects of working with the Gemini API, including API k
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are to:
 
@@ -22,7 +22,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🤖 What is Google Gemini?
+## What is Google Gemini?
 
 **Gemini** is Google's family of generative AI models designed to handle tasks such as:
 
@@ -38,7 +38,7 @@ Gemini's multimodal capabilities allow applications to work with more than just 
 
 ---
 
-## 🔑 Key Concepts Covered
+## Key Concepts Covered
 
 ### 1. Gemini Model Integration
 
@@ -115,7 +115,7 @@ Safety configuration is important when integrating generative models into user-f
 
 ---
 
-## 🔐 API Key Security
+## API Key Security
 
 API credentials should never be hard-coded directly into source code.
 
@@ -131,7 +131,7 @@ The `.env` file should be excluded from version control using `.gitignore`.
 
 ---
 
-## 🔄 General Workflow
+## General Workflow
 
 ```text
 User Prompt
@@ -175,7 +175,7 @@ Updated Conversation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python**
 * **Google Gemini / Generative AI SDK**
@@ -185,7 +185,7 @@ Updated Conversation
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 After completing this project, the following concepts can be understood:
 
@@ -200,7 +200,7 @@ After completing this project, the following concepts can be understood:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 This project can be extended into more advanced Generative AI applications by adding:
 
@@ -217,7 +217,7 @@ This project can be extended into more advanced Generative AI applications by ad
 
 ---
 
-## 🌐 Applications
+## Applications
 
 Gemini-based applications can be used for:
 
@@ -233,7 +233,7 @@ Gemini-based applications can be used for:
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 
 This project provides a practical introduction to integrating **Google Gemini models with Python**. It covers important building blocks of modern Generative AI applications, including text generation, multimodal interaction, conversational context, streaming, generation configuration, safety settings, and API security.
 
